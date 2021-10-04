@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = martigirocorcoll@gmail.com
+	name = Marti Giro
